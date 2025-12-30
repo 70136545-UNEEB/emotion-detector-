@@ -1,0 +1,28 @@
+# Virtual Environment
+emotion_env/
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+server_error.log
+
+# Model files (optional - keeping them if small enough, but usually ignored if large)
+# Un-comment the below lines if you want to exclude trained models
+# model/*.pkl
+
+# OS specific
+.DS_Store
+Thumbs.db
